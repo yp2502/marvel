@@ -1,0 +1,12 @@
+ID,Name,Age,Gender,Salary,Joining_Date,Department
+1,Alice,25,Female,50000,2021-06-01,HR
+2,Bob,30,Male,60000,2020-07-15,IT
+3,Charlie,,M,70000,2019/08/20,HR
+4,David,40,Male,,2022-05-30,Finance
+5,Eve,22,Female,55000,01-01-2018,IT
+6,Frank,35,F,72000,2017-03-22,IT
+6,Frank,35,Male,72000,2017-03-22,IT
+7,Grace,29,F,49000,,HR
+8,Henry,50,Male,80000,2016-12-11,Finance
+9,,31,Unknown,57000,2023-02-05,Unknown
+10,Ivy,-5,Female,52000,2015-09-27,HR
